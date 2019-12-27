@@ -1,0 +1,16 @@
+{
+  "name": "elastic-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Helder Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "elasticsearch": "^16.5.0",
+    "highland": "^2.13.5"
+  }
+}
