@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node --inspect index.js",
+    "search": "node search.js"
   },
   "author": "Helder Ferreira",
   "license": "ISC",
